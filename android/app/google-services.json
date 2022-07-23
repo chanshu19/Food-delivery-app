@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181893205056",
+    "project_id": "tomato-aae6f",
+    "storage_bucket": "tomato-aae6f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181893205056:android:40f376efc9cabe467c63a5",
+        "android_client_info": {
+          "package_name": "com.example.tomato"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181893205056-36edmghsbvhfrsj50b2e6dtgfc0gipv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.tomato",
+            "certificate_hash": "b532b7ba23749f93886be26aaf700d04e663175c"
+          }
+        },
+        {
+          "client_id": "181893205056-9l6pdin96fn4u5cgfbhfbvjg03jpcfu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrFIFKPqILIQjNek2fRLQjz0K8_WW3CYQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181893205056-9l6pdin96fn4u5cgfbhfbvjg03jpcfu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
