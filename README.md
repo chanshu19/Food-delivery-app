@@ -5,7 +5,9 @@
 - Features include Geolocator, Food Carousel, Category Filtering, Order History and Authentication using multiple auth providers.
 
 ## Screenshots
-![App Screenshot](https://github.com/chanshu19/Food-delivery-app/blob/main/Home%20Screen.jpeg)
+![Home Screen](https://github.com/chanshu19/Food-delivery-app/blob/main/Home%20Screen.jpeg)
+![My Cart Screen](https://github.com/chanshu19/Food-delivery-app/blob/main/My%20Cart%20Screen.jpeg)
+![Address Screen](https://github.com/chanshu19/Food-delivery-app/blob/main/Address%20Screen.jpeg)
 
 ## Tech-Stack: 
 - **Frontend:** Flutter, Figma, Dart
